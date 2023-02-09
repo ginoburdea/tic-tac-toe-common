@@ -1,3 +1,5 @@
+import { customAlphabet } from 'nanoid'
+
 /**
  * @param {number} digits
  * @returns {number}
