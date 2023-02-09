@@ -1,0 +1,9 @@
+{
+    "name": "tic-tac-toe-common",
+    "version": "0.1.0",
+    "type": "module",
+    "scripts": {},
+    "dependencies": {
+        "nanoid": "^4.0.1"
+    }
+}
