@@ -47,7 +47,7 @@ export const batchesOf = (arr, batchLength) => {
  * @param {(number|null)[]} cells
  * @param {number} playerId
  */
-function getWinningInfo(cells, playerId) {
+export const getWinningInfo = (cells, playerId) => {
     const turnIntoValueAndIndex = (cellValue, originalIndex) => ({
         cellValue,
         originalIndex,
