@@ -1,8 +1,8 @@
 {
     "name": "tic-tac-toe-common",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "type": "module",
-    "scripts": {},
+    "main": "index.js",
     "dependencies": {
         "nanoid": "^4.0.1"
     }
